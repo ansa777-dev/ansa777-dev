@@ -1,32 +1,163 @@
-![logo](https://github.com/ansa777-dev/ansa777-dev/blob/main/Ansa_banner3.png)
+![Banner](https://github.com/ansa777-dev/ansa777-dev/blob/main/Ansa_banner3.png)
+
 <h1 align="center">Hi 👋, I'm Ansa Idrees</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjFupbvFmx9Ew0_FAOeCDwbWZvn38-Oo_Ux2CGVLBgA&s=10">
+<h3 align="center">
+Frontend Developer | React.js Developer | UI/UX Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansa777-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ansa777-dev" /> </p>
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👨‍💻 All of my projects are available at [https://ansa777.netlify.app/](https://ansa777.netlify.app/)
-
-- 💬 Ask me about **any Programming Languages**
-
-- 📫 How to reach me **ansaidrees777@gmail.com**
-
-- ⚡ Fun fact **I am funny 🤣**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ansaasad-111431407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansaasad-111431407" height="30" width="40" /></a>
-<a href="https://instagram.com/ansaweb777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansaweb777" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Applications;Clean+Code+%7C+Responsive+Design;Always+Learning+New+Technologies"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansa777-dev&show_icons=true&locale=en&layout=compact" alt="ansa777-dev" /></p>
+<img src="https://komarev.com/ghpvc/?username=ansa777-dev&label=Profile+Views&color=00C4FF&style=for-the-badge"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansa777-dev&show_icons=true&locale=en" alt="ansa777-dev" /></p>
+<img src="https://img.shields.io/github/followers/ansa777-dev?logo=github&style=for-the-badge"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansa777-dev&" alt="ansa777-dev" /></p>
+<img src="https://img.shields.io/github/stars/ansa777-dev?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💫 About Me
+
+💻 Passionate Frontend Developer from Pakistan
+
+⚛️ Specialized in React.js Development
+
+🎨 Love creating modern UI/UX
+
+📱 Responsive Web Design Expert
+
+🚀 Currently building React & Laravel applications
+
+🌱 Continuously learning modern web technologies
+
+📫 **Email:** ansaidrees777@gmail.com
+
+🌐 **Portfolio:** https://ansa777.netlify.app/
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ansaasad-111431407">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://instagram.com/ansaweb777">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="https://github.com/ansa777-dev">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,php,laravel,mysql,git,github,vscode,figma&perline=8"/>
+
+</p>
+
+---
+
+# 🚀 What I Do
+
+- ⚛️ React.js Development
+- 🎨 Frontend Development
+- 📱 Responsive Websites
+- 🎯 Pixel Perfect UI
+- 🚀 Landing Pages
+- 🌐 Portfolio Websites
+- 💼 Business Websites
+- 🔥 Laravel Integration
+- ⚡ Website Optimization
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ansa777-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansa777-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansa777-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansa777-dev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ansa777-dev&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technology |
+|---------|------------|
+| 💼 Personal Portfolio | React.js • Tailwind CSS |
+| 🌐 Business Website | React.js |
+| 🎨 Landing Pages | HTML • CSS • JavaScript |
+| 🛍️ E-Commerce UI | React.js |
+| 📱 Responsive Web Apps | React.js |
+
+---
+
+# 💬 Favorite Quote
+
+> **"Great web experiences begin with thoughtful design and clean code."**
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
